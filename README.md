@@ -1,2 +1,2 @@
-# Assignment 1
+# Assignments
 Project "is the road safe?"
